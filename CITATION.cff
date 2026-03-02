@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the individual paper repositories."
+title: "The Carry Arithmetic Research Project"
+authors:
+  - family-names: Alimonti
+    given-names: Stefano
+    orcid: "https://orcid.org/0009-0009-1183-1698"
+    email: "stefalimonti@gmail.com"
+date-released: 2026-03-05
+repository-code: "https://github.com/stefanoalimonti/carry-arithmetic"
+keywords:
+  - carry arithmetic
+  - binary multiplication
+  - spectral theory
+  - pi
+  - Riemann hypothesis
+  - Witt vectors
+license: MIT
