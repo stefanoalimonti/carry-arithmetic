@@ -64,6 +64,31 @@ This project spans 14 repositories: 11 research papers and 3 reference libraries
 
 ---
 
+## Zenodo Archival DOIs
+
+Every repository is archived on Zenodo. The Concept DOI resolves to the latest version.
+
+| Repo | Zenodo DOI |
+|------|------------|
+| carry-arithmetic | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895591.svg)](https://doi.org/10.5281/zenodo.18895591) |
+| carry-arithmetic-A-spectral-theory | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895593.svg)](https://doi.org/10.5281/zenodo.18895593) |
+| carry-arithmetic-B-zeta-approximation | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895597.svg)](https://doi.org/10.5281/zenodo.18895597) |
+| carry-arithmetic-C-matrix-statistics | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895595.svg)](https://doi.org/10.5281/zenodo.18895595) |
+| carry-arithmetic-D-factorization-limits | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895599.svg)](https://doi.org/10.5281/zenodo.18895599) |
+| carry-arithmetic-E-trace-anomaly | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895604.svg)](https://doi.org/10.5281/zenodo.18895604) |
+| carry-arithmetic-F-covariance-structure | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895607.svg)](https://doi.org/10.5281/zenodo.18895607) |
+| carry-arithmetic-G-angular-uniqueness | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895601.svg)](https://doi.org/10.5281/zenodo.18895601) |
+| carry-arithmetic-H-euler-control | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895603.svg)](https://doi.org/10.5281/zenodo.18895603) |
+| carry-arithmetic-L-dirichlet-bridge | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895609.svg)](https://doi.org/10.5281/zenodo.18895609) |
+| carry-arithmetic-P1-pi-spectral | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895611.svg)](https://doi.org/10.5281/zenodo.18895611) |
+| carry-arithmetic-P2-sector-ratio | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895615.svg)](https://doi.org/10.5281/zenodo.18895615) |
+| carry-frobenius | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895613.svg)](https://doi.org/10.5281/zenodo.18895613) |
+| carrymath-py | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895617.svg)](https://doi.org/10.5281/zenodo.18895617) |
+| carrymath-js | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895619.svg)](https://doi.org/10.5281/zenodo.18895619) |
+| carrymath-c | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18895621.svg)](https://doi.org/10.5281/zenodo.18895621) |
+
+---
+
 ## Dependency Graph
 
 ```mermaid
