@@ -20,7 +20,7 @@ Status labels used across papers:
 
 ## The Constellation
 
-This project spans 14 repositories: 11 research papers and 3 reference libraries. Each is self-contained with paper/code, experiments, and reproducibility instructions.
+This project spans 16 repositories: 12 research papers, 3 reference libraries, and this umbrella repo. Each is self-contained with paper/code, experiments, and reproducibility instructions.
 
 ### Flagship Papers
 
