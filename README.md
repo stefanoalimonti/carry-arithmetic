@@ -30,7 +30,7 @@ This project spans 16 repositories: 12 research papers, 3 reference libraries, a
 | [carry-arithmetic-P1-pi-spectral](https://github.com/stefanoalimonti/carry-arithmetic-P1-pi-spectral) | Pi from Pure Arithmetic | Structural framework and theorem set (**Proved**); central limit claim `R(∞)=-π` (**Open target**) |
 | [carry-arithmetic-E-trace-anomaly](https://github.com/stefanoalimonti/carry-arithmetic-E-trace-anomaly) | The Trace Anomaly | Shifted resolvent mechanism for `R=-π` under LMH (**Conditional**) |
 | [carry-arithmetic-B-zeta-approximation](https://github.com/stefanoalimonti/carry-arithmetic-B-zeta-approximation) | Carry Polynomials and the Euler Product | Central approximation framework (CRT, ULC; trace-anomaly program) |
-| [carry-arithmetic-L-dirichlet-bridge](https://github.com/stefanoalimonti/carry-arithmetic-L-dirichlet-bridge) | The Carry–Dirichlet Bridge | Stopping-time Dirichlet series: μ ≈ c̃·(1+3⁻ˢ)·L²(s,χ₄) on Re(s)>1 (**Numerical**) |
+| [carry-arithmetic-L-dirichlet-bridge](https://github.com/stefanoalimonti/carry-arithmetic-L-dirichlet-bridge) | The Carry–Dirichlet Bridge | Canonical weighted-resolvent carry object; μ ≈ c̃·(1+3⁻ˢ)·L²(s,χ₄) on Re(s)>1, but no zero transfer yet (**Numerical**) |
 
 ### Pi Investigation
 
