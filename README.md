@@ -52,7 +52,7 @@ This project spans 16 repositories: 12 research papers, 3 reference libraries, a
 
 | Repo | Paper | Main Result |
 |------|-------|-------------|
-| [carry-frobenius](https://github.com/stefanoalimonti/carry-frobenius) | Frobenius & Gauss Sums from Witt Carries | Exact Frobenius factors at p=3 and p=7 (**Proved**); cross-prime Artin-Schreier program (**Open target**) |
+| [carry-frobenius](https://github.com/stefanoalimonti/carry-frobenius) | Frobenius & Gauss Sums from Witt Carries | Exact Frobenius factors at p=3 and p=7 (**Proved**); anti-diagonal unitary factorization B=√p·P with analytic Weil bound proof (**Proved**); AS match at p=3,11 (**Proved**) |
 
 ### Reference Libraries
 
